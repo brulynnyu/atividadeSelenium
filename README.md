@@ -1,7 +1,7 @@
-***Bruna Nyulas
+Bruna Nyulas
 
 
-***Atividade:
+Atividade:
 Criar um projeto que utilize Selenium, passos que o caso de teste deve executar:
 
 1. Abrir o browser
